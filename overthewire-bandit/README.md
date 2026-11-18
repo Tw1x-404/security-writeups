@@ -16,7 +16,7 @@ Passwords are not included, as OverTheWire asks players not to publish them.
 | 1 → 2 | Files with special names | [Notes](level-01-02.md) |
 | 2 → 3 | Spaces in filenames | [Notes](level-02-03.md) |
 
-Current level: 12
+Current level: 3
 
 ## What I learned so far
 
