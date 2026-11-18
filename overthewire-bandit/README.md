@@ -16,8 +16,9 @@ Passwords are not included, as OverTheWire asks players not to publish them.
 | 1 → 2 | Files with special names | [Notes](level-01-02.md) |
 | 2 → 3 | Spaces in filenames | [Notes](level-02-03.md) |
 | 3 → 4 | Hidden File | [Notes](level-03-04.md) |
+| 4 → 5 | Human-Readable File | [Notes](level-04-05.md) |
 
-Current level: 3
+Current level: 5
 
 ## What I learned so far
 
