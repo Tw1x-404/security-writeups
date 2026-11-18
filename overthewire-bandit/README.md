@@ -15,6 +15,7 @@ Passwords are not included, as OverTheWire asks players not to publish them.
 | 0 → 1 | SSH login, reading files | [Notes](level-00-01.md) |
 | 1 → 2 | Files with special names | [Notes](level-01-02.md) |
 | 2 → 3 | Spaces in filenames | [Notes](level-02-03.md) |
+| 3 → 4 | Hidden File | [Notes](level-03-04.md) |
 
 Current level: 3
 
